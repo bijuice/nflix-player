@@ -6,7 +6,7 @@ An easy to use React video player component styled to look like Netflix.
 
 ## Installation
 
-`npm i nflix-player1`
+`npm i nflix-player`
 
 ## Usage
 
